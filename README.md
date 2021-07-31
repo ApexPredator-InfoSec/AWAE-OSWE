@@ -19,7 +19,7 @@ Students learn how to find these vulnerabilities in web application source code 
 
 Exam prep - 
 
-I passed the exam on the 2nd attempt. However, I was more the prepared enough for the first attempt. I just had a bad couple of days and didn't put enough effort in to the exploitation to be successful. The methods I used to prepare were:
+I passed the exam on the 2nd attempt. However, I was more than prepared enough for the first attempt. I just had a bad couple of days and didn't put enough effort in to the exploitation to be successful. The methods I used to prepare were:
 
 Started 90 lab access course
 Completed all modules and exercise to include all Extra Miles exercies.
