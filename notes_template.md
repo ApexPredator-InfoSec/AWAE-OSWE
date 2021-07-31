@@ -1,79 +1,79 @@
-Machine Name:
-IP Add:
-Machine OS:
-Open Ports:
-Programming Language:
-Web root:
-Web config files:
-Web logs:
-Admin interface:
-Websockets:
-Dirb/gobuster results:
-Nikto results:
+Machine Name:  
+IP Add:  
+Machine OS:  
+Open Ports:  
+Programming Language:  
+Web root:  
+Web config files:  
+Web logs:  
+Admin interface:  
+Websockets:  
+Dirb/gobuster results:  
+Nikto results:  
 Database:
-	• Version:
-	• Creds:
-	• Stacked queries:
-	• UDF:
-	• Copy to:
-	• Execute shell commands:
-	• User/password tables:
-	• Logging:
+	<ul><li>Version:</li>
+	<li>Creds:</li> 
+	<li>Stacked queries:</li>
+	<li>UDF:</li> 
+	<li>Copy to:</li>
+	<li>Execute shell commands:</li>
+	<li>User/password tables:</li>
+	<li>Logging:</li></ul>
 Authentication method:
-	• Hashing/salted or in clear:
-	• Session cookies/tokens:
-	• Password resets:
-	• How are users created:
-	• Difference between admin and non-admin:
-	• Predictable token generation:
-	• Type Juggling:
-	• SQLi in login methods:
-	• Cookies encoded or serialized:
-	• Difference between authenticated and unauthenticated pages:
-	• Anything interesting when accessing nonexistent page:
-SQLi in code:
-	• User controlled parameters:
-	• Sanitization:
-	• Escapable quotes:
-	• Enumeration or run code:
-File uploads:
-	• Blacklists:
-	• Mime type:
-	• Where are files stored:
-Serialization:
-	• Anything serialized or deserialized after authentication:
-	• Cookies:
-	• Files:
-	• JSON:
-	• Pickle:
-	• Base64 encoded:
-Code injection:
-	• User controlled parameters:
-	• Ability to inject PHP, JS, etc:
-XXE:
-	• Is XML being used:
-	• User controlled parameters:
-	• Local entities:
-	• External Entities:
-	• Disclose known files (/etc/passwd, C:\windows\win.ini):
-	• RCE capable:
-SSTI:
-	• Template version:
-	• Test {{7*7}}, = 7*7
-	• Blacklists:
-	• Run code:
-XSS:
-	• Injectable fields:
-	• Alert box:
-	• Steal cookie:
-	• CSRF:
+	<ul><li>Hashing/salted or in clear:</li>
+	<li>Session cookies/tokens:</li>
+	<li>Password resets:</li>
+	<li>How are users created:</li>
+	<li>Difference between admin and non-admin:</li>
+	<li>Predictable token generation:</li>
+	<li>Type Juggling:</li>
+	<li>SQLi in login methods:</li>
+	<li>Cookies encoded or serialized:</li>
+	<li>Difference between authenticated and unauthenticated pages:</li>
+	<li>Anything interesting when accessing nonexistent page:</li></ul>
+SQLi in code:  
+	<ul><li>User controlled parameters:</li>
+	<li>Sanitization:</li> 
+	<li>Escapable quotes:</li>
+	<li>Enumeration or run code:</li></ul>
+File uploads:  
+	<ul><li>Blacklists:</li>
+	<li>Mime type:</li>
+	<li>Where are files stored:</li></ul>
+Serialization:  
+	<ul><li>Anything serialized or deserialized after authentication:</li>
+	<li>Cookies:</li>
+	<li>Files:</li>
+	<li>JSON:</li>
+	<li>Pickle:</li>
+	<li>Base64 encoded:</li></ul>
+Code injection:  
+	<ul><li>User controlled parameters:</li>
+	<li>Ability to inject PHP, JS, etc:</li></ul>
+XXE:  
+	<ul><li>Is XML being used:</li>
+	<li>User controlled parameters:</li>
+	<li>Local entities:</li>
+	<li>External Entities:</li>
+	<li>Disclose known files (/etc/passwd, C:\windows\win.ini):</li>
+	<li>RCE capable:</li></ul>
+SSTI:  
+	<ul><li>Template version:</li>
+	<li>Test {{7*7}}, = 7*7</li>
+	<li>Blacklists:</li>
+	<li>Run code:</li></ul>
+XSS:  
+	<ul><li>Injectable fields:</li>
+	<li>Alert box:</li>
+	<li>Steal cookie:</li>
+	<li>CSRF:</li></ul>
 
-Vulnerabilities discovered:
-	• Type:
-	• PoC:
-Reverse Shell:
-	• Bash:
-	• nodeJS:
-	• PHP:
-	• Powershell:
-	• Msfvenom:
+Vulnerabilities discovered:  
+	<ul><li>Type:</li>
+	<li>PoC:</li></ul>
+Reverse Shell:  
+	<ul><li>Bash:</li>
+	<li>nodeJS:</li>
+	<li>PHP:</li>
+	<li>Powershell:</li>
+	<li>Msfvenom:</li></ul>
