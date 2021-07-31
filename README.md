@@ -54,15 +54,15 @@ Admin interface:
 Websockets:  
 Dirb/gobuster results:  
 Nikto results:  
-<ul>Database:  
-	<li>• Version:</li>
-	<li>• Creds:</li> 
-	<li>• Stacked queries:</li>
-	<li>• UDF:</li> 
-	<li>• Copy to:</li>
-	<li>• Execute shell commands:</li>
-	<li>• User/password tables:</li>
-	<li>• Logging:</li></ul>
+Database:  
+	<ul><li>Version:</li>
+	<li>Creds:</li> 
+	<li>Stacked queries:</li>
+	<li>UDF:</li> 
+	<li>Copy to:</li>
+	<li>Execute shell commands:</li>
+	<li>User/password tables:</li>
+	<li>Logging:</li></ul>
 <ul>Authentication method:</li>
 	<li>• Hashing/salted or in clear:</li>
 	<li>• Session cookies/tokens:</li>
