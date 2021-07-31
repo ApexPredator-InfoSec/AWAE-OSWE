@@ -21,26 +21,35 @@ Exam prep -
 
 I passed the exam on the 2nd attempt. However, I was more than prepared enough for the first attempt. I just had a bad couple of days and didn't put enough effort in to the exploitation to be successful. The methods I used to prepare were:
 
-Started 90 lab access course
 
-Completed all modules and exercise to include all Extra Miles exercies.
+Started 90 lab access course  
+Completed all modules and exercise to include all Extra Miles exercies.  
+Completed the 3 unguided lab machines.  
+Completed SourceCode1 from vulnhub https://www.vulnhub.com/entry/securecode-1,651/ (my solution can be found https://github.com/ApexPredator-InfoSec/securecode1/)  
+Went thru all modules and exercies a 2nd time  
+Improved exercise exploits and Extra Mile solutions  
 
-Completed the 3 unguided lab machines.
-Completed SourceCode1 from vulnhub https://www.vulnhub.com/entry/securecode-1,651/ (my solution can be found https://github.com/ApexPredator-InfoSec/securecode1/)
-Went thru all modules and exercies a 2nd time
-Improved exercise exploits and Extra Mile solutions
 
 2nd attempt prep
+
 Extended lab time 30 days
+
 Ran thru 3 unguided lab machines again
+
 Searched for additonal vulnerabilities in the 3 lab machiens
+
 Improved exploits for 3 lab mahciens
+
 Found additonal vulnerabilities in ATutor not covered in course modules or Extra Miles and coded exploits for them
+
 Completed order and tudo challenges from bmdyy's github https://github.com/bmdyy/ (my solutions can be found https://github.com/ApexPredator-InfoSec/)
+
+
 
 I built a notes template to help keep track of findings on the exam machines that I used on both attempts. Feel free to use it if you feel it will help.
 
 Machine Name:
+
 IP Add:
 Machine OS:
 Open Ports:
