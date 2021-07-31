@@ -21,8 +21,10 @@ Exam prep -
 
 I passed the exam on the 2nd attempt. However, I was more than prepared enough for the first attempt. I just had a bad couple of days and didn't put enough effort in to the exploitation to be successful. The methods I used to prepare were:
 
-Started 90 lab access course\n
+Started 90 lab access course
+
 Completed all modules and exercise to include all Extra Miles exercies.
+
 Completed the 3 unguided lab machines.
 Completed SourceCode1 from vulnhub https://www.vulnhub.com/entry/securecode-1,651/ (my solution can be found https://github.com/ApexPredator-InfoSec/securecode1/)
 Went thru all modules and exercies a 2nd time
