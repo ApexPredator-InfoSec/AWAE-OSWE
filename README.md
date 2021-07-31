@@ -55,7 +55,7 @@ Websockets:
 Dirb/gobuster results:  
 Nikto results:  
 Database:  
-	• Version:  
+	<p>• Version:  
 	• Creds:  
 	• Stacked queries:  
 	• UDF:  
