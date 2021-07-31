@@ -27,7 +27,9 @@ Completed all modules and exercise to include all Extra Miles exercies.
 Completed the 3 unguided lab machines.  
 Completed SourceCode1 from vulnhub https://www.vulnhub.com/entry/securecode-1,651/ (my solution can be found https://github.com/ApexPredator-InfoSec/securecode1/)  
 Went thru all modules and exercies a 2nd time.  
-Improved exercise exploits and Extra Mile solutions.  
+Improved exercise exploits and Extra Mile solutions. 
+Built full chain exploits for modules that did not cover a full chian exploit.  
+Automated HSQLDB exploit path from module 9.  
 
 
 2nd attempt prep  
