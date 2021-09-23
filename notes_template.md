@@ -59,7 +59,7 @@ XXE:
 	<li>RCE capable:</li></ul>
 SSTI:  
 	<ul><li>Template version:</li>
-	<li>Test {{7*7}}, = 7*7</li>
+	<li>Test {{7\*7}}, = 7\*7</li>
 	<li>Blacklists:</li>
 	<li>Run code:</li></ul>
 XSS:  
