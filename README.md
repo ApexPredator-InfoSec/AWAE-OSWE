@@ -38,7 +38,7 @@ Ran thru 3 unguided lab machines again.
 Searched for additonal vulnerabilities in the 3 lab machines.  
 Improved exploits for 3 lab machines.  
 Found additonal vulnerabilities in ATutor not covered in course modules or Extra Miles and coded exploits for them.  
-Completed order and tudo challenges from bmdyy's github https://github.com/bmdyy/ (my solutions can be found https://github.com/ApexPredator-InfoSec/).
+Completed orderby and tudo challenges from bmdyy's github https://github.com/bmdyy/ (my solutions can be found https://github.com/ApexPredator-InfoSec/).
 
 
 
